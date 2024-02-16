@@ -1,0 +1,49 @@
+
+.mainColumnTop{
+    padding: 0 10%;
+    background-image: url("img/S__18096172.jpg");
+}
+
+.topBody{ display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+.topBodyLeft{
+    width: 100%;
+}
+
+.topBodyRight{
+    width: 100%;
+}
+
+.topProfileItem{
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.topInfoHeader{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.topInfoItem{
+    border-top: 0.5px solid #000000;
+    font-weight: bold;
+    padding: 1rem 0;
+}
+
+.textEmphasized{
+    color: rgb(34, 70, 2);
+}
+
+.topInfoItemBody{
+    margin-left: 4rem;
+}
+
+.custom-link {
+    color: #d82303;
+}
